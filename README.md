@@ -2,7 +2,8 @@
 > A simple iOS application that shows current temperature and weather condition for a searched city or from current location. 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Dark appearance](https://github.com/vikihacksys/WeatherApp/blob/master/WeatherApp/Dark%20Appearance.png)
+![Light appearance](https://github.com/vikihacksys/WeatherApp/blob/master/WeatherApp/Light%20Appearance.png)
 
 ## Technologies
 * Objective - C
