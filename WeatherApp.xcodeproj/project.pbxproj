@@ -18,8 +18,8 @@
 		E20917B424E2AE8F00F3E412 /* light_background.pdf in Resources */ = {isa = PBXBuildFile; fileRef = E20917B324E2AE8F00F3E412 /* light_background.pdf */; };
 		E20917BA24E2D17600F3E412 /* WeatherManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E20917B924E2D17600F3E412 /* WeatherManager.m */; };
 		E20917BD24E2D52C00F3E412 /* WeatherModel.m in Sources */ = {isa = PBXBuildFile; fileRef = E20917BC24E2D52C00F3E412 /* WeatherModel.m */; };
-		E2E5615F24F553A700B74EC1 /* Light Appearance.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E5615D24F553A700B74EC1 /* Light Appearance.png */; };
-		E2E5616024F553A700B74EC1 /* Dark Appearance.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E5615E24F553A700B74EC1 /* Dark Appearance.png */; };
+		E2E5616224F6C1AC00B74EC1 /* Dark Appearance.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E5616124F6C1AC00B74EC1 /* Dark Appearance.png */; };
+		E2E5616424F6C1B500B74EC1 /* Light Appearance.png in Resources */ = {isa = PBXBuildFile; fileRef = E2E5616324F6C1B500B74EC1 /* Light Appearance.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,8 +41,8 @@
 		E20917B924E2D17600F3E412 /* WeatherManager.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeatherManager.m; sourceTree = "<group>"; };
 		E20917BB24E2D52C00F3E412 /* WeatherModel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WeatherModel.h; sourceTree = "<group>"; };
 		E20917BC24E2D52C00F3E412 /* WeatherModel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WeatherModel.m; sourceTree = "<group>"; };
-		E2E5615D24F553A700B74EC1 /* Light Appearance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Light Appearance.png"; sourceTree = "<group>"; };
-		E2E5615E24F553A700B74EC1 /* Dark Appearance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dark Appearance.png"; sourceTree = "<group>"; };
+		E2E5616124F6C1AC00B74EC1 /* Dark Appearance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Dark Appearance.png"; sourceTree = "<group>"; };
+		E2E5616324F6C1B500B74EC1 /* Light Appearance.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Light Appearance.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,8 +88,8 @@
 				E20917AA24E2A81C00F3E412 /* main.m */,
 				E20917B124E2AE7A00F3E412 /* dark_background.pdf */,
 				E20917B324E2AE8F00F3E412 /* light_background.pdf */,
-				E2E5615E24F553A700B74EC1 /* Dark Appearance.png */,
-				E2E5615D24F553A700B74EC1 /* Light Appearance.png */,
+				E2E5616124F6C1AC00B74EC1 /* Dark Appearance.png */,
+				E2E5616324F6C1B500B74EC1 /* Light Appearance.png */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -179,11 +179,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E2E5616024F553A700B74EC1 /* Dark Appearance.png in Resources */,
+				E2E5616224F6C1AC00B74EC1 /* Dark Appearance.png in Resources */,
 				E20917B424E2AE8F00F3E412 /* light_background.pdf in Resources */,
 				E20917B224E2AE7A00F3E412 /* dark_background.pdf in Resources */,
 				E20917A824E2A81C00F3E412 /* LaunchScreen.storyboard in Resources */,
-				E2E5615F24F553A700B74EC1 /* Light Appearance.png in Resources */,
+				E2E5616424F6C1B500B74EC1 /* Light Appearance.png in Resources */,
 				E20917A524E2A81C00F3E412 /* Assets.xcassets in Resources */,
 				E20917A324E2A81B00F3E412 /* Main.storyboard in Resources */,
 			);
